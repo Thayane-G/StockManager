@@ -18,7 +18,7 @@ O projeto permite realizar operações completas de CRUD (criar, listar, editar 
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
 ### Backend
 - Python
@@ -45,8 +45,15 @@ O projeto permite realizar operações completas de CRUD (criar, listar, editar 
 
 ---
 
-## 💻 Como executar o projeto
+## ⚙️ Como executar o projeto
 
 ### 1. Clonar o repositório
 ```bash
 git clone https://github.com/SEU_USUARIO/StockManagerAPI.git
+
+---
+
+# 👩‍💻Autora
+
+Thayane Gabriele.
+
