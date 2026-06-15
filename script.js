@@ -44,7 +44,7 @@ async function listarProdutos() {
                     <td>${p.id}</td>
                     <td>${p.nome}</td>
                     <td>${p.categoria}</td>
-                    <td>${p.preco}</td>
+                    <td>R$ ${Number(p.preco).toFixed(2)}</td>
                     <td>${p.quantidade}</td>
                     <td>
                         <button onclick="editar(${p.id}, '${p.nome}', '${p.categoria}', ${p.preco}, ${p.quantidade})">
