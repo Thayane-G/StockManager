@@ -45,13 +45,10 @@ O projeto permite realizar operações completas de CRUD (criar, listar, editar 
 
 ---
 
-## ⚙️ Como executar o projeto
+!Preview do Projeto
 
-### 1. Clonar o repositório
-```bash
-git clone https://github.com/SEU_USUARIO/StockManagerAPI.git
-
----
+<img width="1892" height="1010" alt="Captura de tela 2026-06-14 222159" src="https://github.com/user-attachments/assets/b5c7e07f-fb56-46d2-a560-c0dea00e6c66" />
+<img width="1917" height="1013" alt="Captura de tela 2026-06-14 222354" src="https://github.com/user-attachments/assets/041a2e09-196d-49be-9d28-9e18c8e2627d" />
 
 # 👩‍💻Autora
 
