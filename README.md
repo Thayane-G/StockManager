@@ -47,8 +47,8 @@ O projeto permite realizar operações completas de CRUD (criar, listar, editar 
 
 !Preview do Projeto
 
-<img width="1892" height="1010" alt="Captura de tela 2026-06-14 222159" src="https://github.com/user-attachments/assets/b5c7e07f-fb56-46d2-a560-c0dea00e6c66" />
-<img width="1917" height="1013" alt="Captura de tela 2026-06-14 222354" src="https://github.com/user-attachments/assets/041a2e09-196d-49be-9d28-9e18c8e2627d" />
+<img width="1895" height="1021" alt="Captura de tela 2026-06-15 154511" src="https://github.com/user-attachments/assets/8ab100ae-2eaf-4c47-9ba1-1e6221193be0" />
+<img width="1918" height="1023" alt="Captura de tela 2026-06-15 154525" src="https://github.com/user-attachments/assets/fc2553a9-10ee-4a6d-8829-94fb31ad142a" />
 
 # 👩‍💻Autora
 
