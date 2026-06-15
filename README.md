@@ -1,4 +1,4 @@
-# ☕ StockManager
+# StockManager
 
 Sistema web de gerenciamento de produtos desenvolvido com Flask no backend e HTML, CSS e JavaScript no frontend.
 
@@ -6,7 +6,7 @@ O projeto permite realizar operações completas de CRUD (criar, listar, editar 
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Cadastro de produtos
 - Listagem de produtos
@@ -18,7 +18,7 @@ O projeto permite realizar operações completas de CRUD (criar, listar, editar 
 
 ---
 
-## 💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 ### Backend
 - Python
@@ -34,7 +34,7 @@ O projeto permite realizar operações completas de CRUD (criar, listar, editar 
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 | Método | Rota | Descrição |
 |--------|------|----------|
